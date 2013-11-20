@@ -3,7 +3,7 @@ GMBot
 
 GMBot Created by Game Masters of Heroes of Newerth
 
-Plan of Actions
+Plan of Action
 ===============
 
 The intent of this project is to create a BOT compatible with the game Heroes of Newerth in order to help new players
