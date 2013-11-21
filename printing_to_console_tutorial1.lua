@@ -1,9 +1,9 @@
 --[[
 @author: Alexandre Hudon (_Showtime_)
 @date: November 21st, 2013
-@intent: Setting up GMBot repository.
+@intent: Setting up GMBot repository tutorials.
 
-This is a quick LUA tutorial so that you can grasp the principles.
+This is a quick LUA tutorial so that you can grasp the principles of IO.
 --]]
 
 -- Outputs string to user.
