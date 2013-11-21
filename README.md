@@ -1,7 +1,7 @@
 GMBot
 =====
 
-GMBot Created by Game Masters of Heroes of Newerth
+GMBot created by Game Masters of Heroes of Newerth.
 
 Plan of Action
 ===============
